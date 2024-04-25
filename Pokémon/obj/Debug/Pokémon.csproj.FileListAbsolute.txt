@@ -1,0 +1,13 @@
+C:\Users\megab\source\repos\Pokémon\Pokémon\bin\Debug\Pokémon.exe.config
+C:\Users\megab\source\repos\Pokémon\Pokémon\bin\Debug\Pokémon.exe
+C:\Users\megab\source\repos\Pokémon\Pokémon\bin\Debug\Pokémon.pdb
+C:\Users\megab\source\repos\Pokémon\Pokémon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\megab\source\repos\Pokémon\Pokémon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\megab\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.csproj.AssemblyReference.cache
+C:\Users\megab\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.Form1.resources
+C:\Users\megab\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.Properties.Resources.resources
+C:\Users\megab\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.csproj.GenerateResource.cache
+C:\Users\megab\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.csproj.CoreCompileInputs.cache
+C:\Users\megab\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.csproj.CopyComplete
+C:\Users\megab\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.exe
+C:\Users\megab\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.pdb
